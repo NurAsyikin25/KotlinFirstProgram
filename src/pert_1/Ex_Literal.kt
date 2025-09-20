@@ -11,5 +11,4 @@ fun main(args: Array<String>) {
     println("stringLiteral = " + stringLiteral)
     println("charLiteral = " + charLiteral)
     println("booleanLiteral = " + booleanLiteral)
-
 }
