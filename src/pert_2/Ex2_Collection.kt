@@ -10,6 +10,10 @@ fun main(args: Array<String>) {
 //    val stringSet = setOf("one", "two", "three")
 //    printAll(stringSet)
 
+    //print(list())
+    //print(mutableListOf())
+    //print(arrayListOf())
+    //print(set())
     print(map())
 }
 

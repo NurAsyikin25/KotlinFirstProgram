@@ -15,6 +15,10 @@ fun main() {
 //        print("$i ")
 //    }
 
+//    print(libraryArray())
+//    print(arrayPrimitive())
+//    print(arrayMethod())
+//    print(array2Dimensi())
     print(arrayMultidimensi())
 }
 
